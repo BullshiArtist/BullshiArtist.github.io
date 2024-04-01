@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Calvin Luo's personal academic website"
+title                    : "Calvin's Homepage"
 title_separator          : "-"
 name                     : &name "Calvin Luo"
-description              : &description "Software Engineering undergrad at CDUT"
+description              : &description ""
 url                      : https://BullshiArtist.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "BullshiArtist/BullshiArtist.github.io"
@@ -22,9 +22,9 @@ repository               : "BullshiArtist/BullshiArtist.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Calvin Luo"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Software Engineering undergrad at CDUT"
   location         : "Chengdu-Sichuan-China"
   employer         : "Chengdu University of Technology & Oxford Brookes University"
   uri              : # URL
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "BullshiArtist"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
