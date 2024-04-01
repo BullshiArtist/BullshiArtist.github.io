@@ -7,4 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Calvin Luo, and I am currently a junior undergraduate student pursuing a Bachelor's degree in Software Engineering at Chengdu University of Technology.
+&#x1F4D5; I am currently a junior undergraduate student pursuing a Bachelor's degree in Software Engineering at Chengdu University of Technology.
+
+
