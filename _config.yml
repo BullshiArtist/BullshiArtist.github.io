@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Calvin Luo"
+title                    : "Fuming Luo"
 title_separator          : "-"
-name                     : &name "Calvin Luo"
+name                     : &name "Fuming Luo"
 description              : &description ""
-url                      : https://BullshiArtist.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://BullshiArtist.github.io", "https://calvin.020702.xyz" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "BullshiArtist/BullshiArtist.github.io"
 
@@ -22,13 +22,13 @@ repository               : "BullshiArtist/BullshiArtist.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Calvin Luo"
+  name             : "Fuming Luo"
   pronouns         : # example: "she/her"  
-  bio              : "Software Engineering undergrad at CDUT"
+  bio              : "Software Engineering undergrad at CDUT&OBU"
   location         : "Chengdu-China"
-  employer         : "Chengdu University of Technology"
-  uri              : # URL
-  email            : "1324177796@qq.com" 
+  employer         : "Oxford Brookes University"
+  uri              : "https://calvin.020702.xyz"
+  email            : "luofuming2002@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -43,7 +43,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "BullshiArtist"
-  kaggle           : # Username  
+  kaggle           : "fumingluo"  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
